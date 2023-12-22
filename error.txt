@@ -23,3 +23,4 @@ a5b3c25b1debadd9712d4a390f8830bd4e06d2bd
 
 variables:
         SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Cache SonarCloud data
+adding commit
